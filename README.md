@@ -37,7 +37,7 @@
 </br>
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=qsvfe2159uftxazjic5svhn6p&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)" alt="Widget with the current Spotify song"  />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=qsvfe2159uftxazjic5svhn6p&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
